@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ChronoFamille</string>
+<string name="lock_title">Écran Verrouillé</string>
+<string name="unlock_title">Écran Déverrouillé</string>
+<string name="mode_ecole">Mode École</string>
+<string name="grant_perm">Accorder la permission</string>
+</resources>
